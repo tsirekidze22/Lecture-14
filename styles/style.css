@@ -1,0 +1,27 @@
+body {
+  background-color: #212529;
+}
+.wrapper {
+  width: 300px;
+  height: 200px;
+  border: 2px solid red;
+  padding: 25px;
+}
+
+.gap-1 {
+  column-gap: 0.25rem;
+}
+
+/*html {
+  font-size: 18px;
+}*/
+
+/*.m-12{
+    margin: 12px;
+}*/
+
+form {
+  width: 400px;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
