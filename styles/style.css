@@ -1,6 +1,9 @@
 body {
   background-color: #212529;
 }
+h1 {
+  font-size: 48px;
+}
 .wrapper {
   width: 300px;
   height: 200px;
